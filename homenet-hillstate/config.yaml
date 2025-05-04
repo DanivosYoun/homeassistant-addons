@@ -11,7 +11,7 @@ arch:
 image: yogyui/ha-addon-{arch}-homenet-hillstate
 init: false
 startup: application
-url: https://github.com/YOGYUI/homeassistant-addons/tree/main/homenet-hillstate
+url: https://github.com/DanivosYoun/homeassistant-addons/tree/main/homenet-hillstate
 ingress: true
 ingress_port: 7929
 ingress_entry: /
